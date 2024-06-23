@@ -27,16 +27,33 @@ Travelbud System is a robust backend API system built with Lumen, a fast PHP mic
 
 Thanks to the following contributors who have helped to improve this project:
 
-| Avatar | Contributor | GitHub Profile |
-|--------|-------------|----------------|
-| <img src="https://avatars.githubusercontent.com/maryelang" width="50" style="border-radius: 50%;"> | Marielle | [maryelang](https://github.com/maryelang) |
-| <img src="https://avatars.githubusercontent.com/JerFoxDyesYete" width="50" style="border-radius: 50%;"> | Jerry | [JerFoxDyesYete](https://github.com/JerFoxDyesYete) |
-| <img src="https://avatars.githubusercontent.com/jayson092301" width="50" style="border-radius: 50%;"> | Daniel | [jayson092301](https://github.com/jayson092301) |
-| <img src="https://avatars.githubusercontent.com/Avahayop03" width="50" style="border-radius: 50%;"> | Avah | [Avahayop03](https://github.com/Avahayop03) |
-| <img src="https://avatars.githubusercontent.com/MarkRey13" width="50" style="border-radius: 50%;"> | Mark Rey | [MarkRey13](https://github.com/MarkRey13) |
-| <img src="https://avatars.githubusercontent.com/" width="50" style="border-radius: 50%;"> | Juhiver | [Juhiver](https://github.com/Juhiver-Taurac) |
-
-Feel free to check out their profiles and contributions!
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div style="width: 200px; background-color: #f0f0f0; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <a href="https://github.com/maryelang" style="text-decoration: none; color: inherit;">
+            <img src="https://avatars.githubusercontent.com/maryelang" alt="Marielle" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
+            <h4 style="margin-top: 10px;">Marielle</h4>
+            <p style="font-size: 14px; color: #666;">Contributor</p>
+        </a>
+    </div>
+    
+    <div style="width: 200px; background-color: #f0f0f0; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <a href="https://github.com/JerFoxDyesYete" style="text-decoration: none; color: inherit;">
+            <img src="https://avatars.githubusercontent.com/JerFoxDyesYete" alt="Jerry" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
+            <h4 style="margin-top: 10px;">Jerry</h4>
+            <p style="font-size: 14px; color: #666;">Contributor</p>
+        </a>
+    </div>
+    
+    <div style="width: 200px; background-color: #f0f0f0; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <a href="https://github.com/jayson092301" style="text-decoration: none; color: inherit;">
+            <img src="https://avatars.githubusercontent.com/jayson092301" alt="Daniel" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
+            <h4 style="margin-top: 10px;">Daniel</h4>
+            <p style="font-size: 14px; color: #666;">Contributor</p>
+        </a>
+    </div>
+    
+    <!-- Add more contributors as needed -->
+</div>
 
 ### Installation
 
