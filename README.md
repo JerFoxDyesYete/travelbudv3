@@ -23,6 +23,17 @@ Travelbud System is a robust backend API system built with Lumen, a fast PHP mic
 - MySQL or SQLite (for database storage)
 - Redis (optional, for caching)
 
+### Contributors
+
+Thanks to the following contributors who have helped to improve this project:
+
+- [Marielle](https://github.com/maryelang)
+- [Jerry](https://github.com/JerFoxDyesYete)
+- [Daniel](https://github.com/jayson092301)
+- [Avah](https://github.com/Avahayop03)
+- [Mark Rey](https://github.com/MarkRey13)
+- [Juhiver](https://github.com/)
+
 ### Installation
 
 ```bash
@@ -34,14 +45,3 @@ php artisan key:generate
 # Update .env with your database and API credentials
 php artisan migrate --seed
 php -S localhost:8000 -t public
-
-### Contributors
-
-Thanks to the following contributors who have helped to improve this project:
-
-- [Marielle](https://github.com/maryelang)
-- [Jerry](https://github.com/JerFoxDyesYete)
-- [Daniel](https://github.com/jayson092301)
-- [Avah](https://github.com/Avahayop03)
-- [Mark Rey](https://github.com/MarkRey13)
-- [Juhiver](https://github.com/)
