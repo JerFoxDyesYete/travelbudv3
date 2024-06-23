@@ -28,32 +28,49 @@ Travelbud System is a robust backend API system built with Lumen, a fast PHP mic
 Thanks to the following contributors who have helped to improve this project:
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <div style="width: 200px; background-color: #f0f0f0; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <a href="https://github.com/maryelang" style="text-decoration: none; color: inherit;">
-            <img src="https://avatars.githubusercontent.com/maryelang" alt="Marielle" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
+    <div style="text-align: center;">
+        <a href="https://github.com/maryelang" style="text-decoration: none; color: inherit; display: block;">
+            <img src="https://avatars.githubusercontent.com/maryelang" alt="Marielle" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; margin: 0 auto;">
             <h4 style="margin-top: 10px;">Marielle</h4>
-            <p style="font-size: 14px; color: #666;">Contributor</p>
         </a>
     </div>
     
-    <div style="width: 200px; background-color: #f0f0f0; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <a href="https://github.com/JerFoxDyesYete" style="text-decoration: none; color: inherit;">
-            <img src="https://avatars.githubusercontent.com/JerFoxDyesYete" alt="Jerry" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
+    <div style="text-align: center;">
+        <a href="https://github.com/JerFoxDyesYete" style="text-decoration: none; color: inherit; display: block;">
+            <img src="https://avatars.githubusercontent.com/JerFoxDyesYete" alt="Jerry" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; margin: 0 auto;">
             <h4 style="margin-top: 10px;">Jerry</h4>
-            <p style="font-size: 14px; color: #666;">Contributor</p>
         </a>
     </div>
     
-    <div style="width: 200px; background-color: #f0f0f0; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <a href="https://github.com/jayson092301" style="text-decoration: none; color: inherit;">
-            <img src="https://avatars.githubusercontent.com/jayson092301" alt="Daniel" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
+    <div style="text-align: center;">
+        <a href="https://github.com/jayson092301" style="text-decoration: none; color: inherit; display: block;">
+            <img src="https://avatars.githubusercontent.com/jayson092301" alt="Daniel" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; margin: 0 auto;">
             <h4 style="margin-top: 10px;">Daniel</h4>
-            <p style="font-size: 14px; color: #666;">Contributor</p>
         </a>
     </div>
     
-    <!-- Add more contributors as needed -->
+    <div style="text-align: center;">
+        <a href="https://github.com/Avahayop03" style="text-decoration: none; color: inherit; display: block;">
+            <img src="https://avatars.githubusercontent.com/Avahayop03" alt="Avah" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; margin: 0 auto;">
+            <h4 style="margin-top: 10px;">Avah</h4>
+        </a>
+    </div>
+    
+    <div style="text-align: center;">
+        <a href="https://github.com/MarkRey13" style="text-decoration: none; color: inherit; display: block;">
+            <img src="https://avatars.githubusercontent.com/MarkRey13" alt="Mark Rey" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; margin: 0 auto;">
+            <h4 style="margin-top: 10px;">Mark Rey</h4>
+        </a>
+    </div>
+    
+    <div style="text-align: center;">
+        <a href="https://github.com/Juhiver" style="text-decoration: none; color: inherit; display: block;">
+            <img src="https://avatars.githubusercontent.com/Juhiver" alt="Juhiver" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; margin: 0 auto;">
+            <h4 style="margin-top: 10px;">Juhiver</h4>
+        </a>
+    </div>
 </div>
+
 
 ### Installation
 
