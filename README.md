@@ -24,19 +24,15 @@ Travelbud System is a robust backend API system built with Lumen, a fast PHP mic
 - Redis (optional, for caching)
 
 ### Contributors
-### Contributors
 
 Thanks to the following contributors who have helped to improve this project:
 
-| Avatar | Contributor |
-|--------|-------------|
-| <img src="https://avatars.githubusercontent.com/maryelang" width="50" style="border-radius: 50%;"> <br> [Marielle](https://github.com/maryelang) | Marielle |
-| <img src="https://avatars.githubusercontent.com/JerFoxDyesYete" width="50" style="border-radius: 50%;"> <br> [Jerry](https://github.com/JerFoxDyesYete) | Jerry |
-| <img src="https://avatars.githubusercontent.com/jayson092301" width="50" style="border-radius: 50%;"> <br> [Daniel](https://github.com/jayson092301) | Daniel |
-| <img src="https://avatars.githubusercontent.com/Avahayop03" width="50" style="border-radius: 50%;"> <br> [Avah](https://github.com/Avahayop03) | Avah |
-| <img src="https://avatars.githubusercontent.com/MarkRey13" width="50" style="border-radius: 50%;"> <br> [Mark Rey](https://github.com/MarkRey13) | Mark Rey |
-| <img src="https://avatars.githubusercontent.com/" width="50" style="border-radius: 50%;"> <br> [Juhiver](https://github.com/) | Juhiver |
-
+- 🧑‍💻 [Marielle](https://github.com/maryelang)
+- 👨‍💻 [Jerry](https://github.com/JerFoxDyesYete)
+- 👨‍💻 [Daniel](https://github.com/jayson092301)
+- 👩‍💻 [Avah](https://github.com/Avahayop03)
+- 👨‍💻 [Mark Rey](https://github.com/MarkRey13)
+- 👩‍💻 [Juhiver](https://github.com/)
 
 ### Installation
 
