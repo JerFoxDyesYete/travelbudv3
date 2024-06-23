@@ -25,6 +25,8 @@ Travelbud System is a robust backend API system built with Lumen, a fast PHP mic
 
 ### Contributors
 
+### Contributors
+
 Thanks to the following contributors who have helped to improve this project:
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
