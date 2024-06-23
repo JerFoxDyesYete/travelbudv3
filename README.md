@@ -35,7 +35,7 @@ php artisan key:generate
 php artisan migrate --seed
 php -S localhost:8000 -t public
 
-## Contributors
+### Contributors
 
 Thanks to the following contributors who have helped to improve this project:
 
@@ -45,4 +45,3 @@ Thanks to the following contributors who have helped to improve this project:
 - [Avah](https://github.com/Avahayop03)
 - [Mark Rey](https://github.com/MarkRey13)
 - [Juhiver](https://github.com/)
-
