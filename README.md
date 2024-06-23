@@ -24,54 +24,18 @@ Travelbud System is a robust backend API system built with Lumen, a fast PHP mic
 - Redis (optional, for caching)
 
 ### Contributors
-
 ### Contributors
 
 Thanks to the following contributors who have helped to improve this project:
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <div style="text-align: center;">
-        <a href="https://github.com/maryelang" style="text-decoration: none; color: inherit; display: block;">
-            <img src="https://avatars.githubusercontent.com/maryelang" alt="Marielle" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; margin: 0 auto;">
-            <h4 style="margin-top: 10px;">Marielle</h4>
-        </a>
-    </div>
-    
-    <div style="text-align: center;">
-        <a href="https://github.com/JerFoxDyesYete" style="text-decoration: none; color: inherit; display: block;">
-            <img src="https://avatars.githubusercontent.com/JerFoxDyesYete" alt="Jerry" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; margin: 0 auto;">
-            <h4 style="margin-top: 10px;">Jerry</h4>
-        </a>
-    </div>
-    
-    <div style="text-align: center;">
-        <a href="https://github.com/jayson092301" style="text-decoration: none; color: inherit; display: block;">
-            <img src="https://avatars.githubusercontent.com/jayson092301" alt="Daniel" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; margin: 0 auto;">
-            <h4 style="margin-top: 10px;">Daniel</h4>
-        </a>
-    </div>
-    
-    <div style="text-align: center;">
-        <a href="https://github.com/Avahayop03" style="text-decoration: none; color: inherit; display: block;">
-            <img src="https://avatars.githubusercontent.com/Avahayop03" alt="Avah" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; margin: 0 auto;">
-            <h4 style="margin-top: 10px;">Avah</h4>
-        </a>
-    </div>
-    
-    <div style="text-align: center;">
-        <a href="https://github.com/MarkRey13" style="text-decoration: none; color: inherit; display: block;">
-            <img src="https://avatars.githubusercontent.com/MarkRey13" alt="Mark Rey" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; margin: 0 auto;">
-            <h4 style="margin-top: 10px;">Mark Rey</h4>
-        </a>
-    </div>
-    
-    <div style="text-align: center;">
-        <a href="https://github.com/Juhiver" style="text-decoration: none; color: inherit; display: block;">
-            <img src="https://avatars.githubusercontent.com/Juhiver" alt="Juhiver" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; margin: 0 auto;">
-            <h4 style="margin-top: 10px;">Juhiver</h4>
-        </a>
-    </div>
-</div>
+| Avatar | Contributor |
+|--------|-------------|
+| <img src="https://avatars.githubusercontent.com/maryelang" width="50" style="border-radius: 50%;"> <br> [Marielle](https://github.com/maryelang) | Marielle |
+| <img src="https://avatars.githubusercontent.com/JerFoxDyesYete" width="50" style="border-radius: 50%;"> <br> [Jerry](https://github.com/JerFoxDyesYete) | Jerry |
+| <img src="https://avatars.githubusercontent.com/jayson092301" width="50" style="border-radius: 50%;"> <br> [Daniel](https://github.com/jayson092301) | Daniel |
+| <img src="https://avatars.githubusercontent.com/Avahayop03" width="50" style="border-radius: 50%;"> <br> [Avah](https://github.com/Avahayop03) | Avah |
+| <img src="https://avatars.githubusercontent.com/MarkRey13" width="50" style="border-radius: 50%;"> <br> [Mark Rey](https://github.com/MarkRey13) | Mark Rey |
+| <img src="https://avatars.githubusercontent.com/" width="50" style="border-radius: 50%;"> <br> [Juhiver](https://github.com/) | Juhiver |
 
 
 ### Installation
