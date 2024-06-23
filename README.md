@@ -27,17 +27,21 @@ Travelbud System is a robust backend API system built with Lumen, a fast PHP mic
 
 Thanks to the following contributors who have helped to improve this project:
 
-- [Marielle](https://github.com/maryelang)
-- [Jerry](https://github.com/JerFoxDyesYete)
-- [Daniel](https://github.com/jayson092301)
-- [Avah](https://github.com/Avahayop03)
-- [Mark Rey](https://github.com/MarkRey13)
-- [Juhiver](https://github.com/)
+| Avatar | Contributor | GitHub Profile |
+|--------|-------------|----------------|
+| <img src="https://avatars.githubusercontent.com/maryelang" width="50" style="border-radius: 50%;"> | Marielle | [maryelang](https://github.com/maryelang) |
+| <img src="https://avatars.githubusercontent.com/JerFoxDyesYete" width="50" style="border-radius: 50%;"> | Jerry | [JerFoxDyesYete](https://github.com/JerFoxDyesYete) |
+| <img src="https://avatars.githubusercontent.com/jayson092301" width="50" style="border-radius: 50%;"> | Daniel | [jayson092301](https://github.com/jayson092301) |
+| <img src="https://avatars.githubusercontent.com/Avahayop03" width="50" style="border-radius: 50%;"> | Avah | [Avahayop03](https://github.com/Avahayop03) |
+| <img src="https://avatars.githubusercontent.com/MarkRey13" width="50" style="border-radius: 50%;"> | Mark Rey | [MarkRey13](https://github.com/MarkRey13) |
+| <img src="https://avatars.githubusercontent.com/" width="50" style="border-radius: 50%;"> | Juhiver | [Juhiver](https://github.com/Juhiver-Taurac) |
+
+Feel free to check out their profiles and contributions!
 
 ### Installation
 
 ```bash
-git clone https://github.com/your/repository.git
+git clone https://github.com/JerFoxDyesYete/travelbudv3.git
 cd repository
 composer install
 cp .env.example .env
